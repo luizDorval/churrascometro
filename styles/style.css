@@ -1,0 +1,27 @@
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 300px;
+    margin: auto;
+    background-color: rgb(255, 212, 212);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.numberInput {
+    width: 100%;
+    box-sizing: border-box;
+    display: block;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+button {
+    display: block;
+    margin: auto;
+    margin-top: 25px;
+    padding: 2px;
+}
